@@ -1,0 +1,38 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 54px;
+    color: #ecc91d;
+}
+
+.txt-azul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #1a0ecb;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #26c511;
+}
+
+.box-orange {
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: #ff9966;
+}
+
+.box-blue {
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: #3333ff;
+}
+
+.box-yellow {
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: gold;
+}
